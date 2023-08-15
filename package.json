@@ -1,7 +1,6 @@
 {
   "private": true,
-  "name": "Parth Champaneria Portfolio",
-  "homepage": "https://github.com/parthbilliechamp/",
+  "name": "parth-champaneria-portfolio",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
