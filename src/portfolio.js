@@ -333,24 +333,6 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "AWS Solutions Architect Associate",
-      subtitle: "- AWS",
-      logo_path: "AWS-SAA.png",
-      certificate_link:
-        "https://www.credly.com/badges/8d07dcbc-04d3-4663-8aba-37c9dcd8f462/linked_in?t=re8b8l",
-      alt_name: "AWS SAA",
-      color_code: "#99ddff",
-    },
-    {
-      title: "AWS Cloud Practitioner",
-      subtitle: "- AWS",
-      logo_path: "AWS_CP.png",
-      certificate_link:
-        "https://www.credly.com/badges/8d07dcbc-04d3-4663-8aba-37c9dcd8f462/linked_in?t=re8b8l",
-      alt_name: "AWS Cloud Practitioner",
-      color_code: "#99ddff",
-    },
-    {
       title: "Azure Fundamentals",
       subtitle: "- Microsoft",
       logo_path: "azure_fundamentals_logo.png",
