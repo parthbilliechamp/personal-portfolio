@@ -10,7 +10,14 @@ import App from "./App";
 import * as serviceWorker from "./serviceWorker";
 import "./assests/font-awesome/css/all.css";
 
+import Kommunicate from "@kommunicate/kommunicate-chatbot-plugin";
+
 const engine = new Styletron();
+
+Kommunicate.init("8710f542f9e6c879629638e4ae8bd589", {
+  automaticChatOpenOnNavigation: true,
+  popupWidget: true,
+});
 
 ReactDOM.render(
   <StyletronProvider value={engine}>
