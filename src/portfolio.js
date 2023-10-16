@@ -342,6 +342,15 @@ const certifications = {
       color_code: "#99ddff",
     },
     {
+      title: "Azure Data Fundamentals",
+      subtitle: "- Microsoft",
+      logo_path: "DP900.png",
+      certificate_link:
+        "https://www.credly.com/badges/fcbc4c9a-b8c9-469b-8de8-47de8cd93606/public_url",
+      alt_name: "Azure Data Fundamentals",
+      color_code: "#99ddff",
+    },
+    {
       title: "Azure Fundamentals",
       subtitle: "- Microsoft",
       logo_path: "azure_fundamentals_logo.png",
