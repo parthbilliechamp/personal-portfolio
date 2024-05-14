@@ -333,6 +333,15 @@ const degrees = {
 const certifications = {
   certifications: [
     {
+      title: "Azure Data Engineer Associate",
+      subtitle: "- Azure",
+      logo_path: "dp203badge.png",
+      certificate_link:
+        "https://learn.microsoft.com/api/credentials/share/en-us/ParthChampaneria-6563/589FAEDF987981B2",
+      alt_name: "Azure DP-203",
+      color_code: "#99ddff",
+    },
+    {
       title: "AWS Solutions Architect Associate",
       subtitle: "- AWS",
       logo_path: "AWS-SAA.png",
@@ -346,7 +355,7 @@ const certifications = {
       subtitle: "- Microsoft",
       logo_path: "DP900.png",
       certificate_link:
-        "https://www.credly.com/badges/fcbc4c9a-b8c9-469b-8de8-47de8cd93606/public_url",
+        "https://learn.microsoft.com/api/credentials/share/en-us/ParthChampaneria-6563/F485C4663ED573CC/",
       alt_name: "Azure Data Fundamentals",
       color_code: "#99ddff",
     },
@@ -373,7 +382,7 @@ const certifications = {
       subtitle: "- MCD Integrations and API Associate",
       logo_path: "Mulesoft.png",
       certificate_link:
-        "https://drive.google.com/file/d/15K-zUbadMpteGnsgQ4rmBU7qiehnwQ2Q/view?usp=sharing",
+        "https://drive.google.com/file/d/1IQfte5x_yjZ7xxKoOYsUz6V3aO_uD2Ce/view?usp=sharing",
       alt_name: "MCD Integrations and API Associate",
       color_code: "#99ddff",
     },
